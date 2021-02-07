@@ -1,0 +1,39 @@
+:root {
+    --science-blue: #0074E1;
+    --curious-blue: #1B9CE5;
+    --concrete: #f3f3f3;
+    --turquoise: #10E7DC;
+    --spray: #6CDAEE;
+    --california: #F79E02;
+    --shark: #293042;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+    background: var(--concrete) !important;
+    color: var(--shark) !important;
+}
+
+.text-title {
+    /* font-family: 'Merriweather', serif !important; */
+    font-family: 'Oswald', sans-serif !important;
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+}
+
+.text-blue {
+    color: var(--science-blue);
+}
+
+.text-curious-blue {
+    color: var(--curious-blue);
+}
+
+.navbar {
+    padding: 10px !important;
+}
