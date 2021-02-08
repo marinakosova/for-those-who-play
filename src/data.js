@@ -128,6 +128,36 @@ export const storeProducts = [{
         keywords: "puzzle strategy game",
         company: "ThinkFun",
         info: "Circuit Maze is one of ThinkFun's most popular stem toys for boys and girls, and was a Toy of the Year Award Finalist as well as a PAL Award winner. It's a logic game that teaches the basic principles of circuitry, comes with 60 challenges of increasing difficulty, from beginner to expert, and is a perfect holiday or birthday present for kids who like smart games and challenging activities. Circuit Maze is made with high quality components, and comes with a very clear and easy to understand instruction manual - you'll be able to play within minutes of opening the box. Like all of ThinkFun's games, Circuit Maze is built to develop critical thinking skills and relates to STEM subjects like science and engineering. Building and playing through the increasingly difficult challenges will improve logical reasoning, spatial reasoning and planning skills while learning the fundamentals of circuitry, all through fun gameplay."
+    },
+    {
+        id: 14,
+        title: "ORB Sticky Mosaics Butterflies",
+        img: "img/mosaic.jpg",
+        link: "https://amzn.to/36UXsMX",
+        age: "5+",
+        keywords: "Fun art craft sticky mosaic",
+        company: "ORB",
+        info: "Make a masterpiece with Sticky Mosaics Butterflies! This colorful craft kit is super fun, simple to use, and perfect for at-home or on-the-go entertainment. It’s easy to get great results every time—just peel the tile, stick it on the template and watch the mosaic come to life. There are 4 designs to complete per box."
+    },
+    {
+        id: 15,
+        title: "PicassoTiles 60 Piece Set Magnet Building Tiles",
+        img: "img/picassotiles.jpg",
+        link: "https://amzn.to/3q3yBhp",
+        age: "2+",
+        keywords: "fun educational architectural preschool Building Blocks pretend play toy",
+        company: "PicassoTiles",
+        info: "It's never too early to start developing kids creativity at a young age, PicassoTiles inspire youngsters learning by playing, children will acquire a strong sense of colors, geometrical shapes including 3D forms, number counts, magnetic polarity, architectural design as well as creativity which is the key factor to success in today's ever-changing environment. Give the youngsters a head start. Unlike typical toys, each piece of tiles can be replaced and more tiles can always be added to build objects as big as desired."
+    },
+    {
+        id: 16,
+        title: "Jasonwell Aqua Magic Doodle Mat 40 X 32 Inches",
+        img: "img/doodling-mat.jpg",
+        link: "https://amzn.to/3rzHoIp",
+        age: "3+",
+        keywords: "Water Drawing Doodling Mat Educational preschool Toy",
+        company: "Jasonwell",
+        info: "est Educational Kids toddler toys to develope brain, inspire their imagination. Researchers all agree that learning through play is key to a child’s healthy development. Jasonwell gives your kids both learning and play in one aqua magic mat."
     }
 ];
 
