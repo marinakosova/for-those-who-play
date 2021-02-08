@@ -17,17 +17,12 @@ export default class Form extends Component {
                 <form name="contact v1"
                     action="/contact-form"
                     method="POST"
-                    data-netlify="true"
-                    netlify-honeypot="bot-field"
                 >
 
-                    <input type="hidden"
-                        name="form-name"
-                        value="contact v1" />
+                    <input type="hidden" name="form-name" value="contact v1" />
 
                     <div hidden>
-                        <input
-                            name="bot-field" />
+                        <input name="bot-field" />
                     </div>
 
                     <div className="form-group">

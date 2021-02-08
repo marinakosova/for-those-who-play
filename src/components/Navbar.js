@@ -7,7 +7,7 @@ import Search from './Search';
 export default class Navbar extends Component {
     render() {
         return (
-            <NavWrapper className='navbar navbar-expand-sm navbar-dark px-sm-5'>
+            <NavWrapper className='navbar navbar-expand-sm navbar-dark px-5'>
                 <Link to='/'>
                     <img src={logo} className='navbar-brand' alt="Tech-free toys and games for kids" height="45" width="45" />
                     <h2 className='navbar-brand align-middle text-uppercase'>4thosewhoplay</h2>

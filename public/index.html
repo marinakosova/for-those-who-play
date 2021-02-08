@@ -46,6 +46,30 @@
 </head>
 
 <body>
+
+    <form name="contact v1" netlify hidden data-netlify="true" netlify-honeypot="bot-field">
+        <div className="form-group">
+            <label htmlFor="first-name">First name*: </label>
+            <input type="text" name="first-name" required />
+        </div>
+
+        <div className="form-group">
+            <label htmlFor="last-name">Last name:</label>
+            <input type="text" name="last-name" />
+        </div>
+
+        <div className="form-group">
+            <label htmlFor="email">Email*:</label>
+            <input type="email" name="email" required />
+        </div>
+
+        <div className="form-group">
+            <label>Message*:</label>
+            <textarea name="message" required>
+      </textarea>
+        </div>
+    </form>
+
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
