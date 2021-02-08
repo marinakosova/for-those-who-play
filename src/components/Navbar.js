@@ -42,4 +42,8 @@ h2 {
         color: var(--turquoise) !important;
     }
 }
+.navbar {
+    padding-right: 30px !important;
+    padding-left: 30px !important;
+}
 `;
