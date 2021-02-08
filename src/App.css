@@ -33,7 +33,3 @@ body {
 .text-curious-blue {
     color: var(--curious-blue);
 }
-
-.navbar {
-    padding: 10px !important;
-}

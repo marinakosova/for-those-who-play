@@ -14,7 +14,7 @@ export default class Search extends Component {
         return (
             <ProductConsumer>
                 {(value) => {
-                    console.log(value.searchHandler);
+                    //console.log(value.searchHandler);
                     return (
                         <Div className="form-inline my-2 my-lg-0 ml-auto">
                             <input className="form-control mr-sm-2" type="text"
