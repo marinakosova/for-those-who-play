@@ -66,9 +66,7 @@ export default class Form extends Component {
                         <Link to='/'>
                             <button type="button" className="btn btn-lg mt-auto text-capitalize button-back mr-2">back to products</button>
                         </Link>
-                        <Link to='/success'>
-                            <button className="btn btn-lg mt-auto text-capitalize button-send mr-2" type="submit" >send a message</button>
-                        </Link>
+                        <button className="btn btn-lg mt-auto text-capitalize button-send mr-2" type="submit" >send a message</button>
                     </div>
                 </form>
             </DivContainer>

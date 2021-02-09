@@ -8,7 +8,6 @@ import Details from './components/Details';
 import Carousel from './components/Carousel';
 import Footer from './components/Footer';
 import Form from './components/Form';
-import Success from './components/Success';
 import Default from './components/Default';
 
 class App extends Component {
@@ -23,7 +22,6 @@ class App extends Component {
           <Route exact path='/' component={ProductList} />
           <Route path='/details' component={Details} />
           <Route path='/contact-form' component={Form} />
-          <Route path='/success' component={Success} />
           <Route component={Default} />
         </Switch>
         <Route exact path='/' component={Footer} >
