@@ -15,8 +15,9 @@ export default class Form extends Component {
                 </h5> */}
 
                 <form name="contact v1"
-                    action="/contact-form"
+                    action="/success"
                     method="POST"
+                    onSubmit="submit"
                 >
 
                     <input type="hidden" name="form-name" value="contact v1" />

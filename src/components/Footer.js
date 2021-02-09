@@ -7,7 +7,7 @@ export default class Footer extends Component {
         return (
             <FooterContainer className="footer mt-auto text-muted my-5 pt-5 text-small">
                 <div className="container text-center">
-                    <p className="mb-1">&copy; 2021 4thosewhoplay.com</p>
+                    <p className="mb-1">&copy; 2021 4thosewhoplay</p>
                     <Link to="/contact-form">
                         <p className="mb-0">Contact us</p>
                     </Link>
