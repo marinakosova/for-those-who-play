@@ -15,7 +15,6 @@ export default class Form extends Component {
                 </h5> */}
 
                 <form name="contact v1"
-                    action="/success/"
                     method="POST"
                 >
 
