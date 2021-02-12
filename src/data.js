@@ -157,7 +157,37 @@ export const storeProducts = [{
         age: "3+",
         keywords: "Water Drawing Doodling Mat Educational preschool Toy",
         company: "Jasonwell",
-        info: "est Educational Kids toddler toys to develope brain, inspire their imagination. Researchers all agree that learning through play is key to a child’s healthy development. Jasonwell gives your kids both learning and play in one aqua magic mat."
+        info: "Best Educational Kids toddler toys to develope brain, inspire their imagination. Researchers all agree that learning through play is key to a child’s healthy development. Jasonwell gives your kids both learning and play in one aqua magic mat."
+    },
+    {
+        id: 17,
+        title: "Build-on Brick Lego Mug with 3 Packs of Bricks",
+        img: "img/lego-cap.jpg",
+        link: "https://amzn.to/3aVfKyR",
+        age: "8+",
+        keywords: "Novelty Unique Puzzle Fun Cup for Kids Building Blocks Coffee Cup",
+        company: "Sinnsally",
+        info: `This is an interesting cup,unique build bricks coffee mug.The outside can be used to splicing most of the blocks. Drinking something you like while building the cup will make you feel different and feel better. This PUZZLE CUP can work as a decoration for your house/office, and also be used as a delicate vase,nifty pen holder or a money pot and more...`
+    },
+    {
+        id: 18,
+        title: "Kinetic Sand The Original Moldable Sensory Play Sand, Blue, 2 Pounds",
+        img: "img/sand.jpeg",
+        link: "https://amzn.to/3pkr9gY",
+        age: "3+",
+        keywords: "non-toxic creative sensory magic",
+        company: "Kinetic Sand",
+        info: "Mix, mold and create anything you can imagine with the Kinetic Sand 2lb blue color pack! Kinetic Sand is the original magical, moldable and mesmerizing sand. It flows through your hands and never dries out so you can play again and again. With 2lbs of colorful blue Kinetic Sand, you can squish it, mix it, cut it or mold it – the creative possibilities are endless! The unique Kinetic Sand formula makes it easy to shape and mold anything you can imagine. Available in four bright colors (purple, green, blue and pink), the Kinetic Sand 2lb color pack comes in a convenient re-sealable bag, ideal for containment and storage. Create again and again and let Kinetic Sand flow through your hands – it’s so satisfying, you won’t be able to put it down! Kinetic Sand is made from natural sand and is wheat, gluten and casein free. Feel the fun with the Kinetic Sand 2lb blue color pack!"
+    },
+    {
+        id: 19,
+        title: "LEGO Friends Heartlake City Play Hair Salon",
+        img: "img/salon-lego.jpg",
+        link: "https://amzn.to/2N1O8A1",
+        age: "6+",
+        keywords: "41391 Building Kit Featuring LEGO Friends Character Emma",
+        company: "LEGO",
+        info: "This toy hair styling set is brimming with scenarios for imaginative play. There’s a whole host of cute hairdressing toy salon accessories, such as toy hair dryers and toy wigs, to get imaginations sparking. With LEGO Friends Heartlake City Hair Salon, kids can role-play the client or the stylist – there's loads of crazy cuts waiting to be made. Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon. Cute features include a shell-shaped sink, a hair-cutting chair, a styling station and a cash register. Purple bangs anyone? All LEGO sets come with super-simple printed instructions, but the Heartlake City Hair Salon also features a fully enhanced building experience. Download the LEGO Life app and go to Instructions PLUS to access zoom, rotate and ‘ghost' modes. It's building for the digital age!"
     }
 ];
 
