@@ -188,6 +188,56 @@ export const storeProducts = [{
         keywords: "41391 Building Kit Featuring LEGO Friends Character Emma",
         company: "LEGO",
         info: "This toy hair styling set is brimming with scenarios for imaginative play. There’s a whole host of cute hairdressing toy salon accessories, such as toy hair dryers and toy wigs, to get imaginations sparking. With LEGO Friends Heartlake City Hair Salon, kids can role-play the client or the stylist – there's loads of crazy cuts waiting to be made. Wonderfully detailed stations allow kids to see the mini-doll figures progress through the pretend hair salon. Cute features include a shell-shaped sink, a hair-cutting chair, a styling station and a cash register. Purple bangs anyone? All LEGO sets come with super-simple printed instructions, but the Heartlake City Hair Salon also features a fully enhanced building experience. Download the LEGO Life app and go to Instructions PLUS to access zoom, rotate and ‘ghost' modes. It's building for the digital age!"
+    },
+    {
+        id: 20,
+        title: "Learning Resources Create-a-Space Homeschool Storage, 10 Piece set",
+        img: "img/classroom-storage.jpeg",
+        link: "https://amzn.to/3anuJCN",
+        age: "3+",
+        keywords: "education for toddlers classroom playroom supplies",
+        company: "Learning Resources",
+        info: `Encourage your students to be creative by creating the perfect tabletop makerspace. Handy Create-a-Space Storage Center makes it easier and more convenient to keep your materials organized and stored away. Includes a 12" tray with 8 colorful containers. This is a great item for teachers looking for extra ways to organize! Ages 3 and up`
+    },
+    {
+        id: 21,
+        title: "ZMLM Scratch Rainbow Paper Art Set, 50 Piece",
+        img: "img/rainbow.jpg",
+        link: "https://amzn.to/2N3iXo5",
+        age: "3+",
+        keywords: "Art Crafts Notes Boards doodle sketch draw trace Sheet notepad for travel",
+        company: "ZMLM",
+        info: "Value pack of 50 rainbow scratch off paper can use to jot down notes, etch doodles, and create cool illustrations and designs. Simply use the wooden styluses to scratch away the black film to reveal the beautiful rainbow colors. Cut out your beautiful designs to hang for ornaments and watch the colors magically appear with every scratch."
+    },
+    {
+        id: 22,
+        title: "UNO Classic Family Card Game",
+        img: "img/uno.jpg",
+        link: "https://amzn.to/3rQga05",
+        age: "7+",
+        keywords: "fun for adults, teens and kids",
+        company: "Mattel",
+        info: `UNO is the classic family card game that's easy to pick up and impossible to put down! Players take turns matching a card in their hand with the current card shown on top of the deck either by color or number. Special action cards, like Skips, Reverses, Draw Twos, color-changing Wild and Draw Four Wild cards, deliver game-changing moments as they each perform a function to help you defeat your opponents. If you can't make a match, you must draw from the center pile. And when you're down to one card, don't forget to shout "UNO!" The first player to get rid of all the cards in their hand wins. Now card game-lovers can get UNO in a sturdy tin that's great for travel and makes storage stress-free. Colors and decorations may vary.`
+    },
+    {
+        id: 23,
+        title: "50 Pcs Paint Brushes with 12 Pcs Paint Pallet Trays",
+        img: "img/paint.jpg",
+        link: "https://amzn.to/2N5IEEn",
+        age: "3+",
+        keywords: "Art Paint pallet ",
+        company: "Hulameda",
+        info: "The paint pallets and paint brushes for kid are light enough to hold in hands. Both are wash off quickly. 10 wells and 1 central reservoir is ideal for painters to separate or mix pigments. Using palette paint tray and paint brushes are perfect to create art works and get control on tiny details. Plastic palette also suits for different people from kids to adults."
+    },
+    {
+        id: 24,
+        title: "Purple Ladybug Decorate Your Own Water Bottle for Girls Craft Kit",
+        img: "img/bottle.jpg",
+        link: "https://amzn.to/3b26Yz2",
+        age: "4+",
+        keywords: "Fun Creative DIY Kids Arts stickers design personalized school",
+        company: "Purple Ladybug",
+        info: "This water bottle allows for full customization -- use the alphabet letters to write words, pick the stickers that are most appealing and cover the bottle with them. There are more stickers than fit on the bottle -- with so many options, use the other ones to decorate journals, letters, laptops or any smooth surface. They're sticky, super-cute and there is lots of variety! Your little one will love showing off their one-of-a-kind bottle to friends and family at school."
     }
 ];
 
