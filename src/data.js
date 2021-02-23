@@ -238,6 +238,76 @@ export const storeProducts = [{
         keywords: "Fun Creative DIY Kids Arts stickers design personalized school",
         company: "Purple Ladybug",
         info: "This water bottle allows for full customization -- use the alphabet letters to write words, pick the stickers that are most appealing and cover the bottle with them. There are more stickers than fit on the bottle -- with so many options, use the other ones to decorate journals, letters, laptops or any smooth surface. They're sticky, super-cute and there is lots of variety! Your little one will love showing off their one-of-a-kind bottle to friends and family at school."
+    },
+    {
+        id: 25,
+        title: "Ranphykx Bluetooth Karaoke Wireless Microphone",
+        img: "img/mic.jpg",
+        link: "https://amzn.to/2MdT2JQ",
+        age: "4+",
+        keywords: "for kids music singing family travel car stereo speaker echo",
+        company: "Ranphykx",
+        info: "For the most gift, microphone for kids definitely brings surprises. As a child's toy, it will definitely bring irresistible and unforgettable time to your child. And perfect for KTV, Disco and family party, car stereo, instrument recording, interviews, speaking, live, ect. Ranphykx Microphone for kids has three layers of filter head, which can greatly reduce the noise produced. And it uses denoising technology that filters air flow and wind noise effectively to ensure your best singing. The speakers in the karaoke wireless microphone that is high quality and sound. The sound quality is improved by 30% with the Update Bass Diaphragm Cavity, which gives you the stronger shock and heavier sense. "
+    },
+    {
+        id: 26,
+        title: "LEGO Creator 3in1 Propeller Plane 31099",
+        img: "img/plane.jpg",
+        link: "https://amzn.to/3bsiHY4",
+        age: "6+",
+        keywords: "Flying jet helicopter Toy Building Kit",
+        company: "LEGO",
+        info: `Inspire kids’ creativity and love of play with the exciting LEGO Creator 3-in-1 Propeller Plane set. Kids will love to make cool takeoffs and landings with this colorful plane, featuring a spinning propeller and adjustable wing tips. Kids get 3 different build-and-play experiences with this LEGO Creator 3-in-1 set. They can build a propeller plane and then rebuild it into a jet plane or a toy helicopter with landing pad. Then they can let their creativity loose and build something completely new. This great building toy taps into different passions with its 3-in-1 building options, it makes a great gift for all occasions. LEGO Creator 3-in-1 sets offer kids models that are detailed and realistic and encourage imaginative play. The models give endless building and play opportunities while helping to spark creativity in children of all ages. The fun, inspirational sets also make great little holiday gifts or birthday presents for kids.`
+    },
+    {
+        id: 27,
+        title: "Jenga Classic Game",
+        img: "img/jenga.jpeg",
+        link: "https://amzn.to/3qFMjYd",
+        age: "8+",
+        keywords: "strategy fun WOOD BLOCK PARTY for family",
+        company: "Jenga",
+        info: "It's the classic block stacking, stack crashing game of Jenga. How will you stack up against the law of gravity? Stack the wooden blocks in a sturdy tower, then take turns pulling out blocks one by one until the whole stack crashes down. Is your hand steady enough to pull out the last block before the tower collapses?"
+    },
+    {
+        id: 28,
+        title: "Melissa & Doug Finger Paint Paper Pad (12 x 18 inches) - 50 Sheets, 2-Pack",
+        img: "img/fingerpaint.jpg",
+        link: "https://amzn.to/3urwO8K",
+        age: "2+",
+        keywords: "painting artwork creative fun imagination Learning",
+        company: "Melissa and Doug",
+        info: `Finger-painting is so much fun on these generous (12” x 18”) pads. Premium heavyweight glossy white paper is coated on both sides so it’s totally nonabsorbent. The Melissa & Doug Finger-Paint Paper Pads each include 50 pages of 12” x 17” paper. The paper is built into a top-bound pad for easy removal to display kids’ artwork. Our finger-paint pads are made from nonabsorbent paper that has a smooth surface and is coated on both sides. It’s ideal for finger-painting activities. The Melissa & Doug Finger-Paint Paper Pad for kids is a high-quality art supply that helps kids explore their creativity. Maintaining an ample supply of paper gives kids a convenient option for screen-free fun. For more than 30 years, Melissa & Doug has created beautifully designed imagination- and creativity-sparking products that NBC News calls “the gold standard in early childhood play.” We design every toy to the highest quality standards, and to nurture minds and hearts. If your child is not inspired, give us a call and we’ll make it right. Our phone number is on every product!`
+    },
+    {
+        id: 29,
+        title: "Hasbro Gaming Guess Who?",
+        img: "img/who.jpg",
+        link: "https://amzn.to/3qPbcAW",
+        age: "6+",
+        keywords: "Guessing board Game for Kids family mystery",
+        company: "Hasbro Gaming",
+        info: "Bring back childhood memories and introduce “the original guessing game” to your kids and grandkids. With the Guess Who? game, each player chooses a mystery character card and then using yes or no questions, they try to figure out the other player's mystery person. This edition features character art and most character names not seen in other editions such as hat-wearing Sam, Amy with glasses, and Al with the big white beard! Challenge opponents to a series of games, or up the challenge by not asking if the mystery person is a boy or a girl until the third turn. The Guess Who? game is a great indoor activity for kids ages 6 and up."
+    },
+    {
+        id: 30,
+        title: "Crayola Baby Shark Art Set, 50 Pieces",
+        img: "img/babyshark.jpg",
+        link: "https://amzn.to/3aKbzaj",
+        age: "0+",
+        keywords: "artwork coloring decorating fun supplies",
+        company: "Crayola",
+        info: `The Baby Shark Art Set is the “fin-tastic” birthday or holiday gift for boys and girls and all fans of the Baby Shark Song! Moms will love the Ultra-Clean Washable Markers and Large Crayons that wash clean from skin and most washable clothing and painted walls. Features a durable Fin-shaped Case, 10 Ultra-Clean Markers, 8 Ultra-Clean Large Crayons, 30 Coloring Pages and 2 Sticker Sheets. Ideal gift for kids ages 4 and up.`
+    },
+    {
+        id: 31,
+        title: "LEGO Ideas International Space Station 21321 Building Kit",
+        img: "img/solar.jpg",
+        link: "https://amzn.to/2ZJqgnH",
+        age: "16+",
+        keywords: "solar panels astronaut NASA shuttle spacecrafts adults creative fun",
+        company: "LEGO",
+        info: "Build and display this spectacular LEGO Ideas 21321 ISS (International Space Station). Packed with authentic ISS details, including a posable Canadarm2 and 2 rotating joints that coincide with 8 adjustable ‘solar panels’, this 864-piece set is a wonderful gift idea for space enthusiasts, adult LEGO fans or any experienced builder. This awesome LEGO spaceship model comes with a display stand, a buildable mini NASA space shuttle and 3 mini cargo spacecrafts, plus 2 astronaut microfigures to create a striking centerpiece in any room. Illustrated instructions are included, plus a 148-page booklet with fascinating ISS facts and information about the LEGO fan who created this space model kit and its LEGO designer. The infinitely diverse array of LEGO Ideas sets are all created by LEGO fans and voted for by LEGO fans. Inspired by real life, action heroes, iconic movies, popular TV series or totally original concepts, there is something to delight all ages."
     }
 ];
 
