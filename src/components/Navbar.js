@@ -8,11 +8,11 @@ export default class Navbar extends Component {
     render() {
         return (
             <NavWrapper className='navbar navbar-dark px-5'>
-                <Link to='/'>
+                <Link to='/' className="my-md-2 my-sm-2 my-lg-0">
                     <img src={logo} className='navbar-brand' alt="Tech-free toys and games for kids" height="45" width="45" />
                     <h2 className='navbar-brand align-middle text-uppercase'>4thosewhoplay</h2>
                 </Link>
-                <ul className='navbar-nav ml-md-5'>
+                <ul className='navbar-nav'>
                     <li className='navbar-item'>
                         <Link to='/' className='nav-link'>They’ll love these</Link>
                     </li>

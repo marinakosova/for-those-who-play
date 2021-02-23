@@ -30,7 +30,7 @@ export default class Details extends Component {
                                     <p className="text-muted lead">
                                         {info}
                                     </p>
-                                    <div>
+                                    <div className="button-center my-2">
                                         <Link to='/'>
                                             <button type="button" className="btn btn-lg mt-auto text-capitalize button-back mr-2">back to products</button>
                                         </Link>

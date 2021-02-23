@@ -6,8 +6,7 @@ export default class Form extends Component {
     render() {
         return (
             <DivContainer className="py-5">
-
-                <h2 className="text-title mb-4">
+                <h2 className="text-title my-4">
                     Contact us
                 </h2>
                 {/* <h5>
@@ -61,11 +60,11 @@ export default class Form extends Component {
                         </textarea>
                     </div>
 
-                    <div className="form-group">
+                    <div className="form-group form-margin">
                         <Link to='/'>
-                            <button type="button" className="btn btn-lg mt-auto text-capitalize button-back mr-2">back to products</button>
+                            <button type="button" className="btn btn-lg mt-auto text-capitalize button-back mr-2 my-2">back to products</button>
                         </Link>
-                        <button className="btn btn-lg mt-auto text-capitalize button-send mr-2" type="submit" >send a message</button>
+                        <button className="btn btn-lg mt-auto text-capitalize button-send mr-2 my-2" type="submit" >send a message</button>
                     </div>
                 </form>
             </DivContainer>
@@ -75,6 +74,8 @@ export default class Form extends Component {
 
 const DivContainer = styled.div`
 max-width: 550px;
+margin-top: 3.5rem;
+padding: 1rem;
     margin: 0px auto;
     font-size: 1.25rem;
     .button-back {
@@ -102,5 +103,8 @@ max-width: 550px;
 .btn:focus,.btn:active {
    outline: none !important;
    box-shadow: none;
+}
+.form-margin {
+    margin-top: 1.5rem;
 }
 `

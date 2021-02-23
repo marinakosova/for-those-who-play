@@ -9,7 +9,7 @@ export default class Carousel extends Component {
     render() {
         return (
             <CarouselWrapper className="container mt-5">
-                <div className="jumbotron p-3 p-md-3 text-white rounded" style={{ backgroundImage: `url(${slider2})`, backgroundSize: 'cover' }}>
+                <div className="jumbotron p-3 p-md-3 text-white rounded" style={{ backgroundImage: `url(${slider2})`, backgroundSize: 'cover', marginBottom: 0 }}>
                     <div className="col-md-6 px-0">
                         <h1 className="display-4 font-italic">Explore screen-free things to keep kids busy without screen time</h1>
                         <p className="lead my-3">Best 100+ ideas that encourage your child to do something constructive</p>

@@ -16,8 +16,8 @@ export default class Search extends Component {
                 {(value) => {
                     //console.log(value.searchHandler);
                     return (
-                        <Div className="form-inline my-2 my-lg-0">
-                            <input className="form-control mr-sm-2" type="text"
+                        <Div className="form-inline my-md-2 my-sm-2 my-lg-0">
+                            <input className="form-control" type="text"
                                 placeholder="Search" aria-label="Search" defaultValue={value.search}
                                 onChange={value.searchHandler} />
                         </Div>
