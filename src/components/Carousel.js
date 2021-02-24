@@ -9,7 +9,7 @@ export default class Carousel extends Component {
     render() {
         return (
             <CarouselWrapper className="container mt-5">
-                <div className="jumbotron p-3 p-md-3 text-white rounded" style={{ backgroundImage: `url(${slider2})`, backgroundSize: 'cover', marginBottom: 0 }}>
+                <div className="jumbotron p-3 p-md-3 mb-3 text-white rounded" style={{ backgroundImage: `url(${slider2})`, backgroundSize: 'cover', marginBottom: 0 }}>
                     <div className="col-md-6 px-0">
                         <h1 className="display-4 font-italic">Explore screen-free things to keep kids busy without screen time</h1>
                         <p className="lead my-3">Best 100+ ideas that encourage your child to do something constructive</p>
@@ -57,6 +57,7 @@ export default class Carousel extends Component {
                         <span className="sr-only">Next</span>
                     </a>
                 </div> */}
+                {/* <iframe title="Harry Potter books on Amazon" src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=harrypotter&banner=0J90BX6K71TVWZBAGXG2&f=ifr&linkID={{link_id}}&t=marinapattern-20&tracking_id=marinapattern-20" width="728px" height="90px" scrolling="no" border="0" marginwidth="0" style={{ border: 'none' }} frameborder="0"></iframe> */}
             </CarouselWrapper>
         )
     }

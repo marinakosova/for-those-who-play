@@ -11,6 +11,7 @@ class ProductProvider extends Component {
     };
 
     componentDidMount() {
+        document.getElementById('root').scrollTop = 0;
         this.setProducts();
     }
 
