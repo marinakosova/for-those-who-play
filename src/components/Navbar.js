@@ -46,4 +46,10 @@ h2 {
     padding-right: 30px !important;
     padding-left: 30px !important;
 }
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
 `;

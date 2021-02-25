@@ -32,9 +32,9 @@ export default class Details extends Component {
                                     </p>
                                     <div className="button-center my-2">
                                         <Link to='/'>
-                                            <button type="button" className="btn btn-lg mt-auto text-capitalize button-back mr-2">back to products</button>
+                                            <button type="button" className="btn btn-lg mt-auto text-capitalize button-back mr-2 my-2">back to products</button>
                                         </Link>
-                                        <a href={link} className="btn btn-lg mt-auto button-shop text-capitalize" role="button" rel="noopener noreferrer">shop now</a>
+                                        <a href={link} className="btn btn-lg mt-auto button-shop text-capitalize my-2" role="button" rel="noopener noreferrer">shop now</a>
                                     </div>
                                 </div>
                             </div>
