@@ -12,12 +12,12 @@ export default class Navbar extends Component {
                     <img src={logo} className='navbar-brand' alt="Tech-free toys and games for kids" height="45" width="45" />
                     <h2 className='navbar-brand align-middle text-uppercase'>4thosewhoplay</h2>
                 </Link>
+                <Search />
                 <ul className='navbar-nav'>
                     <li className='navbar-item'>
-                        <Link to='/' className='nav-link'>They’ll love these</Link>
+                        <Link to='/contact-form' className='nav-link'>Contact us</Link>
                     </li>
                 </ul>
-                <Search />
             </NavWrapper>
         )
     }
@@ -37,7 +37,7 @@ h2 {
 }
 .nav-link {
     color: var(--concrete) !important;
-    font-size: 1.4rem;
+    font-size: 1rem;
     :hover {
         color: var(--turquoise) !important;
     }

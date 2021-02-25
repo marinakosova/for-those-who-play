@@ -40,3 +40,9 @@ body {
         justify-content: center;
     }
 }
+
+@media (max-width: 600px) {
+    .form-inline {
+        padding: 1rem 0;
+    }
+}
