@@ -33,3 +33,10 @@ body {
 .text-curious-blue {
     color: var(--curious-blue);
 }
+
+@media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+        justify-content: center;
+    }
+}
