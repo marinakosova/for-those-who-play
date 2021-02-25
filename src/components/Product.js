@@ -31,7 +31,7 @@ export default class Product extends Component {
                             </div>
                         )}
                     </ProductConsumer>
-                    <a href={link} className="btn btn-block btn-lg btn-primary mt-auto" role="button" target="_blank" rel="noopener noreferrer">Shop now</a>
+                    <a href={link} className="btn btn-block btn-lg btn-primary mt-auto" role="button" rel="noopener noreferrer">Shop now</a>
                 </div>
             </ProductWrapper>
         )
