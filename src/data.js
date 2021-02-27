@@ -308,6 +308,46 @@ export const storeProducts = [{
         keywords: "solar panels astronaut NASA shuttle spacecrafts adults creative fun",
         company: "LEGO",
         info: "Build and display this spectacular LEGO Ideas 21321 ISS (International Space Station). Packed with authentic ISS details, including a posable Canadarm2 and 2 rotating joints that coincide with 8 adjustable ‘solar panels’, this 864-piece set is a wonderful gift idea for space enthusiasts, adult LEGO fans or any experienced builder. This awesome LEGO spaceship model comes with a display stand, a buildable mini NASA space shuttle and 3 mini cargo spacecrafts, plus 2 astronaut microfigures to create a striking centerpiece in any room. Illustrated instructions are included, plus a 148-page booklet with fascinating ISS facts and information about the LEGO fan who created this space model kit and its LEGO designer. The infinitely diverse array of LEGO Ideas sets are all created by LEGO fans and voted for by LEGO fans. Inspired by real life, action heroes, iconic movies, popular TV series or totally original concepts, there is something to delight all ages."
+    },
+    {
+        id: 32,
+        title: "Crayola Air Dry Clay, 5 Lb Bucket",
+        img: "img/clay.jpg",
+        link: "https://amzn.to/3pYCIL4",
+        age: "4+",
+        keywords: "craft Natural White Modeling crafts",
+        company: "Crayola",
+        info: "Got a budding artist at home? Let your little one explore their creative side with this 5 pound bucket of Air Dry Clay by Crayola. This soft modeling clay can be reused or air dried to create masterpieces without having to bake them in a kiln. So when your kid is sure of their art creation, all you have to do let it air, and once dry, it's ready to paint. The air dry clay is smooth, less sticky than traditional clay, and perfect for their small hands. You can even add water to make the clay softer if need be. Get your child this clay and watch them shape their imagination into little creations. It also makes for a great activity during a play date or craft activity at a party. Safe and nontoxic, ages 4 and up."
+    },
+    {
+        id: 33,
+        title: "BunMo XL Pop Tubes Sensory Toys for Boys and Girls, 4 Pack",
+        img: "img/tubes.jpg",
+        link: "https://amzn.to/37TMJTm",
+        age: "3+",
+        keywords: "ADHD Autism",
+        company: "BunMo",
+        info: "Fun and functional sensory toys that pop, stretch, and connect making these pop tubes the go-to toy for playtime. These super-sized open ended toys are made for all busy little fingers but are also exciting ADHD toys for kids. Autistic toys like these pop tubes provide tactile stimulation, fine motor skills and auditory feedback making them the perfect sensory toys for autistic children."
+    },
+    {
+        id: 34,
+        title: "The Learning Journey Lift & Learn Puzzle - USA Map Puzzle",
+        img: "img/map.jpg",
+        link: "https://amzn.to/3dTSl42",
+        age: "3+",
+        keywords: "fun for Kids Preschool United States tactile motor SKILLS",
+        company: "The Learning Journey International",
+        info: `Learning about the United States of America is easy and fun with the Lift & Learn USA Map puzzle. With 40 pieces, little ones can research each state, its capital, and various historical sites, monuments, natural wonders, and other famous attractions. Each puzzle piece is raised for easy grasping and the state shaped pieces lift to reveal the name and proximity of its capital. All the pieces fit neatly in a wood grain-like tray for puzzle solving fun and tidy storage! Measures 15” long x . 4” wide x 11” high. Ages 3+ years.`
+    },
+    {
+        id: 35,
+        title: "Glow in The Dark Glitter Slime Making Kit for Kids Girls Boys",
+        img: "img/slime.jpg",
+        link: "https://amzn.to/3q9g3fb",
+        age: "5+",
+        keywords: "creativity DIY Crystal Powder Foam fishbowl Beads Balls",
+        company: "Zen Laboratory",
+        info: "The Zen Laboratory Slime Kit is stuffed with more goodies than any other slime kit on the market! With 18 colors of ready made slime with over 50 mix-ins including many colors of glitter, beads, sugar paper, and glow-in-the-dark packets that can be combined with any color of slime to make them glow. The possibilities for creativity are endless with hours of fun and smiles!"
     }
 ];
 
