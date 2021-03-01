@@ -348,6 +348,56 @@ export const storeProducts = [{
         keywords: "creativity DIY Crystal Powder Foam fishbowl Beads Balls",
         company: "Zen Laboratory",
         info: "The Zen Laboratory Slime Kit is stuffed with more goodies than any other slime kit on the market! With 18 colors of ready made slime with over 50 mix-ins including many colors of glitter, beads, sugar paper, and glow-in-the-dark packets that can be combined with any color of slime to make them glow. The possibilities for creativity are endless with hours of fun and smiles!"
+    },
+    {
+        id: 36,
+        title: "Click N' Play Pack of 200 Crush Proof Plastic Balls",
+        img: "img/balls.jpg",
+        link: "https://amzn.to/3b5JqdS",
+        age: "1+",
+        keywords: "fun for playhouse kiddie pool playpen and bounce house",
+        company: "Click N' Play",
+        info: `These Click n' Play plastic balls are great for ball pit, jumping castle and pools. They are safe to use and made to last a long time without having the air Using a unique 2-stage blow molding process to ensure consistency of thickness; quality; smooth seam & surface. Safe and friendly to use. Each ball measures 2.3 inches in diameter, a perfect size for small child's hand. 6 bright & attractive colors: Blue, red, pink, green, orange and yellow. Great for filling any ball pit, tent, playhouse, kiddie pool, playpen and bounce house.`
+    },
+    {
+        id: 37,
+        title: "LEGO Star Wars: The Mandalorian The Razor Crest 75292 Exclusive Building Kit",
+        img: "img/razor.jpeg",
+        link: "https://amzn.to/3bUOOzN",
+        age: "10+",
+        keywords: "starship Greef Karga Scout Trooper",
+        company: "LEGO",
+        info: `Relive bounty hunter The Mandalorian and the Child’s battles against Scout Trooper and other enemies with The Razor Crest (75292) LEGO Star Wars building toy for kids. This brick-built armored transport shuttle features a cargo hold with opening sides that double as access ramps and carbonite bounty elements inside, a dual LEGO minifigure cockpit, spring-loaded shooters, escape pod and more authentic details to inspire creative play. A challenging build for ages 10 and up, this 1,023-piece starship construction kit includes 5 collectible LEGO Star Wars characters, including The Mandalorian and the Child LEGO minifigures. It’s great for role play and combines with other LEGO Star Wars sets for even more action. Since 1999, the LEGO Group has been recreating iconic starships, vehicles, locations and characters from the legendary Star Wars universe. LEGO Star Wars building toys are hugely popular with awesome gift ideas for all ages.`
+    },
+    {
+        id: 38,
+        title: "Creativity for Kids Glow In The Dark Rock Painting Kit",
+        img: "img/rocks.jpg",
+        link: "https://amzn.to/3e05eJB",
+        age: "6+",
+        keywords: "CREATIVE Crafts supplies non-toxic",
+        company: "Creativity for Kids",
+        info: `The Creativity for Kids Hide & seek glow rock painting is a fun way for you, your friends and family to spread kindness, encouragement and happiness throughout your community – one glowing rock at a time! This Glow in the Dark rock painting kit makes the perfect gift for kids who love arts and crafts or rock painting beginners – everything you need is included! This complete rock painting kit includes 10 natural river rocks, water-resistant fluorescent paint, dimensional glow-in-the-dark paint and 2 paint brushes. Create unique arts and crafts all year round! Rock painting is a fun craft for girls and boys. Express your creativity with a fun and open ended craft activity that is great for the whole family. Hide your painted glow rocks outdoors! No additional glaze needed to make your rocks waterproof. Watch your painted rocks glow in the dark! Spread kindness and positivity with hand painted rocks! Gift, hide or share your rock art throughout your community. Hide these rocks in the dark and watch them glow! This Rock painting for beginners kit is great for rock painting enthusiasts of all ages! Explore creatively with non-toxic art and crafts supplies that conforms to ASTM D-4236.`
+    },
+    {
+        id: 39,
+        title: "UCreate Watercolor White Paper Package, 140 lb., 9 x 12, 50 Sheets",
+        img: "img/paper.jpg",
+        link: "https://amzn.to/3b430Hk",
+        age: "2+",
+        keywords: "CREATIVE Crafts supplies Acid-free",
+        company: "UCreate",
+        info: `This thick 140 lb. watercolor paper in economical packages is perfect for student grade artwork. These sturdy sheets have a uniform texture and whiteness, and are ideal for wet and mixed media. This 9-inch by 12-inch pad includes 50 sheets and is perfect for groups or classroom activities. Acid-free and recyclable. UCreate Watercolor Paper is used in Fresh Artists programs which benefit children in under resourced schools.`
+    },
+    {
+        id: 40,
+        title: "Wonder Forge Disney Classic Characters Matching Memory Game",
+        img: "img/match.jpg",
+        link: "https://amzn.to/2NJuxVX",
+        age: "3+",
+        keywords: "Fun preschoolers Mickey Mouse, Minnie, Dumbo, The Incredibles, Donald Duck, Goofy, Timon and Pumba, Tinkerbell, Buzz Lightyear",
+        company: "Wonder Forge",
+        info: "It's the classic game of picture matching, now starring your most cherished Disney characters. Flip over colorful tiles to find a parade of friendly faces, from Dumbo and Bambi to Nemo and Simba. Collect the most pairs to win, and share the magic memories along the way."
     }
 ];
 
