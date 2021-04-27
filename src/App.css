@@ -19,6 +19,11 @@ body {
     color: var(--shark) !important;
 }
 
+.navbar-wrapper {
+    /* I need to wrap navbar */
+    max-width: 1680px;
+}
+
 .text-title {
     /* font-family: 'Merriweather', serif !important; */
     font-family: 'Oswald', sans-serif !important;
