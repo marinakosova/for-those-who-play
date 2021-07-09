@@ -398,6 +398,26 @@ export const storeProducts = [{
         keywords: "Fun preschoolers Mickey Mouse, Minnie, Dumbo, The Incredibles, Donald Duck, Goofy, Timon and Pumba, Tinkerbell, Buzz Lightyear",
         company: "Wonder Forge",
         info: "It's the classic game of picture matching, now starring your most cherished Disney characters. Flip over colorful tiles to find a parade of friendly faces, from Dumbo and Bambi to Nemo and Simba. Collect the most pairs to win, and share the magic memories along the way."
+    },
+    {
+        id: 41,
+        title: "DIY STEM Science Kit, Crystal Space Terrarium Kit",
+        img: "img/terrarium.jpg",
+        link: "https://amzn.to/2TWyA4b",
+        age: "6+",
+        keywords: "Growing for Boys Girls",
+        company: "Creativity for Kids",
+        info: `Blast off into a creative outer space science adventure with Creativity for Kids Crystal Space Terrarium! With this STEAM craft kit for kids, your space mission begins as you create a glow in the dark crystal terrarium that is shaped like a UFO. Everything you need to complete this craft project is included, just add imagination! The crystal growing space terrarium kit comes with growing crystal rocks, crystal growing powder, plastic jar (4.75 H x 6.5 W), colored space stickers, glow-in-the-dark constellation stickers, glow rocks, plastic measuring container, wooden stir stick, squishy sticker, foam sticky dot, glow-in-the-dark mini alien, rhinestone stickers and space rocks (requires 2 AAA batteries - not included). The glow rocks, alien figurine and constellation stickers will light up your room during the day and night! While this craft is a fun way to be creative, it is also an educational STEM activity! Learn about chemical reactions mix and make your own quick growing crystals. Just add hot water and watch the crystals grow in as little as 24 hours! This science toy is an engaging, entertaining and educational STEM activity for kids who are interested in science and outer space all while inspiring creativity as they personalize their own pretend planet! Since 1976, Creativity for Kids has proudly made fun and creative experiences today to nurture children’s confidence for life. This crystal growing kit for kids features non-toxic arts and craft supplies and is recommended for kids ages 6+`
+    },
+    {
+        id: 42,
+        title: "Paint & Plant Flower Growing Kit - Kids Gardening Science Gift",
+        img: "img/plants.jpg",
+        link: "https://amzn.to/3wvCaQ7",
+        age: "6+",
+        keywords: "STEM Arts Crafts for Boys Girls Creativity Cosmos Zinnia Marigold Flowers",
+        company: "Dan&Darci",
+        info: `Paint & plant your own small garden: Paint the planter and plant markers, and sow the Marigold, Cosmos, and Zinnia flowers - with vibrant colors and pleasant scents. Follow along with the included step-by-step instructions. Make it unique: When it comes to the design, the sky is the limit! Feel free to express your creativity on the planter and plant markers. Kit includes: Tin Planter (12 * 4.5 * 4 inches), plastic liner, soil, 3 seed packets, 6-color paint strip, 2 paint brushes, paint palette, 3 wooden plant markers, shovel, watering bottle, and beautiful instruction booklet.`
     }
 ];
 
